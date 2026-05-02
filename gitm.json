@@ -1,0 +1,15 @@
+{
+    "version": "1.0.12",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/alexandreafj/gitm/releases/download/v1.0.12/gitm_1.0.12_windows_amd64.zip",
+            "bin": [
+                "gitm.exe"
+            ],
+            "hash": "ea3f4006e724ccd875f8599001725513db6a704e1999890717b682218700716a"
+        }
+    },
+    "homepage": "https://github.com/alexandreafj/gitm",
+    "license": "MIT",
+    "description": "Multi-repository git manager — run git operations across dozens of repositories in parallel"
+}
