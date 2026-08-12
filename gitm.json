@@ -1,12 +1,12 @@
 {
-    "version": "1.0.32",
+    "version": "1.0.33",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/alexandreafj/gitm/releases/download/v1.0.32/gitm_1.0.32_windows_amd64.zip",
+            "url": "https://github.com/alexandreafj/gitm/releases/download/v1.0.33/gitm_1.0.33_windows_amd64.zip",
             "bin": [
                 "gitm.exe"
             ],
-            "hash": "cc8fb1d7a3c21553d887f6abbc212a2e989a04bf62ce698bab0778250e6ce557"
+            "hash": "70b69e68f13d45c4e1075e1c183aecb694db9b6077aac34b9f62d454e5f25fc5"
         }
     },
     "homepage": "https://github.com/alexandreafj/gitm",
